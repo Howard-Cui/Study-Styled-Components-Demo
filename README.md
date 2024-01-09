@@ -16,9 +16,9 @@ The Udemy Course is using React-router-dom v5, Which is already outdated, theref
 
 ## Tech Stack
 
-Create-React-App
-React-Router-Dom 6
-styled-compoennts
+- Create-React-App
+- React-Router-Dom 6
+- styled-compoennts
 
 
 ## Installation and Running
